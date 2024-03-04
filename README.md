@@ -55,5 +55,6 @@ Ensure all steps are documented for future reference.
 Coordinate with team members for any necessary assistance or collaboration.
 Regularly update the status of the story to reflect progress.
 
-![2 jpg](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/adac81d2-bb86-4b5d-b226-059b6d9e4abb)
+![Arch](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/aa19db06-d7b7-4b5c-92a6-2f575598140d)
+
 
