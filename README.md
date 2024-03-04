@@ -43,3 +43,6 @@ Execute the deployment script on your EC2 instance to deploy the website files.
 Test Accessibility:
 
 Access your website using your domain name to ensure it is accessible over HTTPS.
+
+![2 jpg](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/adac81d2-bb86-4b5d-b226-059b6d9e4abb)
+
