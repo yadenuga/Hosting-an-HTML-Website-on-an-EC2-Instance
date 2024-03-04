@@ -44,5 +44,16 @@ Test Accessibility:
 
 Access your website using your domain name to ensure it is accessible over HTTPS.
 
+Acceptance Criteria:
+
+Provide a screenshot of the deployed site, demonstrating that it is fully secured with HTTPS.
+Include the URL of the deployed site in your Jira comment.
+Share the deployment script that you used for hosting the site.
+Additional Notes:
+
+Ensure all steps are documented for future reference.
+Coordinate with team members for any necessary assistance or collaboration.
+Regularly update the status of the story to reflect progress.
+
 ![2 jpg](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/adac81d2-bb86-4b5d-b226-059b6d9e4abb)
 
