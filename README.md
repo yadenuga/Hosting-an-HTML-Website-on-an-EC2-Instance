@@ -55,49 +55,6 @@ Ensure all steps are documented for future reference.
 Coordinate with team members for any necessary assistance or collaboration.
 Regularly update the status of the story to reflect progress.
 
-1.VPC-Proj-2 10.0.0.0/16 (Enabled DNS Hostnames)
-
-2.IGW-Proj-2 (Attached to VPC-Proj-2)
-
-3.NATGW-Proj-2 (Primary Public IP 52.70.81.37, Primary Private IP 10.0.0.214)
-
-4.Public Subnets
-PublicSubnetProj2-AZ1 us-east1a 10.0.0.0/24 (Enable auto-assign public IPv4 address)
-PublicSubnetProj2-AZ2 us-east1b 10.0.1.0/24 (Enable auto-assign public IPv4 address) 
-
-5.Private Subnets
-PrivateSubnetProj2-AZ1 us-east1a 10.0.2.0/24
-PrivateSubnetProj2-AZ2 us-east1b 10.0.3.0/24
-
-6.PublicRouteTable-Proj-2
-0.0.0.0/0	igw-0de73d34206dc7867	Active	
-10.0.0.0/16	local	                Active
-
-7.PublicSubnetProj2 Association
-PublicSubnetProj2-AZ1	subnet-017623d5d4a4781c2 10.0.0.0/24	
-PublicSubnetProj2-AZ2	subnet-0b4cb1f4a187f5b00 10.0.1.0/24
-
-8.PrivateRouteTable-Proj-2
-0.0.0.0/0	nat-080a022356c702058	Active	
-10.0.0.0/16	local	                Active
-
-9.PrivateSubnetProj2 Association
-PrivateSubnetProj2-AZ1	subnet-0c24cd5d6090da18e 10.0.2.0/24	
-PrivateSubnetProj2-AZ2	subnet-0d91cb67e0a18b312 10.0.3.0/24
-
-SCRIPT
-#!/bin/bash 
-sudo su
-yum update -y
-yum install httpd git -y
-systemctl enable httpd
-systemctl start httpd
-aws s3 cp s3://aosproject2/xmen-main/xmen-main.zip /var/www/html
-cd /var/www/html
-unzip xmen-main.zip
-mv xmen-main/* /var/www/html
-rm -r xmen-main/ xmen-main.zip
-systemctl restart httpd
 
  
  
