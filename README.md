@@ -56,6 +56,30 @@ Coordinate with team members for any necessary assistance or collaboration.
 Regularly update the status of the story to reflect progress.
 
 
+![Project#2_01](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/dd12e3f2-f17a-4cbb-a6dc-7401d5cc5077)
+
+![Project#2_02](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/cab211f3-ad23-4ea6-985c-436234fb029d)
+
+![Project#2_03](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/e5eedfe4-a989-4997-b39e-b337a2f17f0e)
+
+![Project#2_04](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/8296275a-c775-4a40-8241-8344433ceb8b)
+
+![Project#2_05](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/b2d16294-6016-4101-a467-5b7fb7de6f10)
+
+![Project#2_06](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/e1323aa1-cf22-43b5-a35c-ac41cfa5d2a9)
+
+![Project#2_07](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/4411ca98-432a-4c03-ab8a-8e066c32b16d)
+
+![Project#2_08](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/86f75b7e-88dc-4740-b6ee-de9b38bfa496)
+
+![Project#2_09](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/852ca785-762e-45af-9d41-3c696c07d049)
+
+![Project#2_10](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/0beb1d9a-2993-4a3a-89cd-b64d338950f0)
+
+
+
+
+
  
 
 
