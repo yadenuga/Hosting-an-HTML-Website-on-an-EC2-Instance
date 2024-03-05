@@ -69,47 +69,23 @@ PublicSubnetProj2-AZ2 us-east1b 10.0.1.0/24 (Enable auto-assign public IPv4 addr
 PrivateSubnetProj2-AZ1 us-east1a 10.0.2.0/24
 PrivateSubnetProj2-AZ2 us-east1b 10.0.3.0/24
 
-          6.   PublicRouteTable-Proj-2
+6.        PublicRouteTable-Proj-2
 0.0.0.0/0	igw-0de73d34206dc7867	Active	
-10.0.0.0/16	local	                                            Active
+10.0.0.0/16	local	          Active
 
-         7. PublicSubnetProj2 Association
+7.        PublicSubnetProj2 Association
 PublicSubnetProj2-AZ1	subnet-017623d5d4a4781c2	10.0.0.0/24	
 PublicSubnetProj2-AZ2	subnet-0b4cb1f4a187f5b00	10.0.1.0/24
 
-         8. PrivateRouteTable-Proj-2
+8.        PrivateRouteTable-Proj-2
 0.0.0.0/0	nat-080a022356c702058	Active	
-10.0.0.0/16	local	                                            Active
+10.0.0.0/16	local	          Active
 
-        9. PrivateSubnetProj2 Association
+9.        PrivateSubnetProj2 Association
 PrivateSubnetProj2-AZ1	subnet-0c24cd5d6090da18e	10.0.2.0/24	
 PrivateSubnetProj2-AZ2	subnet-0d91cb67e0a18b312	10.0.3.0/24
- 
- 
- 
- 
- 
 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
-
-
-
-
-
-
+SCRIPT
 #!/bin/bash 
 sudo su
 yum update -y
@@ -133,4 +109,4 @@ systemctl restart httpd
  
 
 
-https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance
+
