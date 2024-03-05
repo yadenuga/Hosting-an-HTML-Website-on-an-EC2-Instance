@@ -56,7 +56,8 @@ Coordinate with team members for any necessary assistance or collaboration.
 Regularly update the status of the story to reflect progress.
 
 
- 
+ ![Project#2_10](https://github.com/yadenuga/Hosting-an-HTML-Website-on-an-EC2-Instance/assets/25983732/cd881a7a-53e2-4b3e-89b6-7464249c3588)
+
  
  
 
